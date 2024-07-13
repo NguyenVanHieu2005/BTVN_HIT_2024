@@ -1,0 +1,49 @@
+bài 1:
+Python là ngôn ng? thông d?ch. Ði?u này có nghia là mã ngu?n Python du?c th?c thi tr?c ti?p b?i trình thông d?ch mà không c?n ph?i biên d?ch tru?c thành mã máy. 
+Bài 2:
+Ki?u d? li?u:
+
+S? nguyên (int): S? nguyên
+S? th?c (float): S? th?p phân
+Chu?i (str): Dãy ký t?, ví d?
+Boolean (bool): Giá tr? dúng/sai
+Danh sách (list): M?t t?p h?p các ph?n t?, có th? thay d?i
+Tuple (tuple): M?t t?p h?p các ph?n t?, không th? thay d?i
+T? di?n (dict): T?p h?p các c?p key-value
+Set (set): M?t t?p h?p các ph?n t? duy nh?t
+
+Các toán t?:
+C?ng: +
+Tr?: -
+Nhân: *
+Chia: /
+Chia l?y du: %
+Luy th?a: **
+Chia l?y nguyên: //
+B?ng: ==
+Khác: !=
+L?n hon: >
+Nh? hon: <
+L?n hon ho?c b?ng: >=
+Nh? hon ho?c b?ng: <=
+Và: and
+Ho?c: or
+Ph? d?nh: not
+Gán: =
+Gán c?ng: +=
+Gán tr?: -=
+Gán nhân: *=
+Gán chia: /=
+
+
+m?nh d? vòng l?p:
+M?nh d? di?u ki?n:
+
+if:<câu l?nh>
+if dk:<câu l?nh>
+    else:<câu l?nh khác>
+
+Ki?u d? li?u True, False:
+Boolean (bool) là ki?u d? li?u ch? có hai giá tr? là True (dúng) và False (sai).
+Giá tr? boolean thu?ng du?c s? d?ng trong các di?u ki?n và vòng l?p d? ki?m tra các di?u ki?n logic.
+    
